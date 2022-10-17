@@ -3,7 +3,7 @@
 # Initial Variable
 school = 'Fairfield Prep'
 
-# Using .split
+# Using .split (how I first did it)
 first_half, second_half = school.split(' ')
 
 # Or with slicing

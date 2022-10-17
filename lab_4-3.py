@@ -10,4 +10,4 @@ if string1 < string2: # s1 greater than s2
 elif string1 > string2: # s2 greater than s1
     print(f'{string1} comes after {string2}')
 else:
-    print('Both words are of equal')
+    print('Both words are equal')
